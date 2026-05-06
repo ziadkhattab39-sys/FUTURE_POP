@@ -4,7 +4,7 @@ About the Project
 
 FuturePOP is a simple C# desktop application that represents population data across different governorates.
 
-We built this project mainly to practice Object-Oriented Programming (OOP) concepts in a practical way instead of just studying them theoretically.
+We built this project primarily to practice Object-Oriented Programming (OOP) concepts in a practical setting, rather than just studying them theoretically.
 
 ---
 
@@ -55,14 +55,14 @@ Add charts for better data visualization
 
 Notes
 
-This project was built as practice, so it’s relatively simple.
+This project was built as a practice exercise, so it’s relatively straightforward.
 The main focus was on structure and organization rather than complexity.
 
 ---
 Made BY:
 
-Ziad M. Moawad
+Ziad M. Moawad | Lead Developer – Core OOP Architecture, Full Windows Forms Interface Design & Implementation
 
-Ziad W. Wajih
+Ziad W. Wajih | Library Integration Specialist – Data Import from Excel Sheets, OOP Development Support
 
-Ziad M. Kamel
+Ziad M. Kamel | Research & Data Specialist – Source Collection, Dataset Preparation, Inheritance Implementation
